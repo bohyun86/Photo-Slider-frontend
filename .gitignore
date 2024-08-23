@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Photo Slider/*
+!/Photo Slider/task/
+/Photo Slider/task/*
+!/Photo Slider/task/src
